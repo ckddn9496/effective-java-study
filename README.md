@@ -20,3 +20,4 @@
 
 - [아이템 10 - equals는 일반 규약을 지켜 재정의하라](https://github.com/ckddn9496/effective-java-study/tree/master/%EC%95%84%EC%9D%B4%ED%85%9C%2010%20-%20equals%EB%8A%94%20%EC%9D%BC%EB%B0%98%20%EA%B7%9C%EC%95%BD%EC%9D%84%20%EC%A7%80%EC%BC%9C%20%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%9D%BC)
 - [아이템 11 - equals를 재정의하려거든 hashCode도 재정의하라](https://github.com/ckddn9496/effective-java-study/tree/master/%EC%95%84%EC%9D%B4%ED%85%9C%2011%20-%20equals%EB%A5%BC%20%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%A0%A4%EA%B1%B0%EB%93%A0%20hashCode%EB%8F%84%20%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%9D%BC)
+- [아이템 12 - toString을 항상 재정의하라]()
