@@ -15,4 +15,8 @@
 - [아이템 7 - 다 쓴 객체 참조를 해제하라](https://github.com/ckddn9496/effective-java-study/tree/master/%EC%95%84%EC%9D%B4%ED%85%9C%2007%20-%20%EB%8B%A4%20%EC%93%B4%20%EA%B0%9D%EC%B2%B4%20%EC%B0%B8%EC%A1%B0%EB%A5%BC%20%ED%95%B4%EC%A0%9C%ED%95%98%EB%9D%BC)
 - [아이템 8 - finalizer와 cleaner의 사용을 피하라](https://github.com/ckddn9496/effective-java-study/tree/master/%EC%95%84%EC%9D%B4%ED%85%9C%2008%20%20-%20finalizer%EC%99%80%20cleaner%EC%9D%98%20%EC%82%AC%EC%9A%A9%EC%9D%84%20%ED%94%BC%ED%95%98%EB%9D%BC)
 - [아이템 9 - try-finally보다는 try-with-resources를 사용하라](https://github.com/ckddn9496/effective-java-study/tree/master/%EC%95%84%EC%9D%B4%ED%85%9C%2009%20-%20try-finally%EB%B3%B4%EB%8B%A4%EB%8A%94%20try-with-resources%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC)
+
+### 3. 모든 객체의 공통 메서드
+
 - [아이템 10 - equals는 일반 규약을 지켜 재정의하라](https://github.com/ckddn9496/effective-java-study/tree/master/%EC%95%84%EC%9D%B4%ED%85%9C%2010%20-%20equals%EB%8A%94%20%EC%9D%BC%EB%B0%98%20%EA%B7%9C%EC%95%BD%EC%9D%84%20%EC%A7%80%EC%BC%9C%20%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%9D%BC)
+- [아이템 11 - equals를 재정의하려거든 hashCode도 재정의하라](https://github.com/ckddn9496/effective-java-study/tree/master/%EC%95%84%EC%9D%B4%ED%85%9C%2011%20-%20equals%EB%A5%BC%20%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%A0%A4%EA%B1%B0%EB%93%A0%20hashCode%EB%8F%84%20%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%9D%BC)
