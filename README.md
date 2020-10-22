@@ -31,3 +31,4 @@
 - [아이템 18 - 상속보다는 컴포지션을 사용하라](https://github.com/ckddn9496/effective-java-study/blob/master/contents/%EC%95%84%EC%9D%B4%ED%85%9C%2018%20-%20%EC%83%81%EC%86%8D%EB%B3%B4%EB%8B%A4%EB%8A%94%20%EC%BB%B4%ED%8F%AC%EC%A7%80%EC%85%98%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC.md)
 - [아이템 20 - 추상 클래스보다는 인터페이스를 우선하라](https://github.com/ckddn9496/effective-java-study/blob/master/contents/%EC%95%84%EC%9D%B4%ED%85%9C%2020%20-%20%EC%B6%94%EC%83%81%20%ED%81%B4%EB%9E%98%EC%8A%A4%EB%B3%B4%EB%8B%A4%EB%8A%94%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%A5%BC%20%EC%9A%B0%EC%84%A0%ED%95%98%EB%9D%BC.md)
 - [아이템 21 - 인터페이스는 구현하는 쪽을 생각해 설계하라](https://github.com/ckddn9496/effective-java-study/blob/master/contents/%EC%95%84%EC%9D%B4%ED%85%9C%2021%20-%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%8A%94%20%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94%20%EC%AA%BD%EC%9D%84%20%EC%83%9D%EA%B0%81%ED%95%B4%20%EC%84%A4%EA%B3%84%ED%95%98%EB%9D%BC.md)
+- [아이템 22 - 인터페이스는 타입을 정의하는 용도로만 사용하라]()
