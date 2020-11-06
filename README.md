@@ -37,4 +37,4 @@
 - [아이템 25 - 톱레벨 클래스는 한 파일에 하나만 담으라](https://github.com/ckddn9496/effective-java-study/blob/master/contents/%EC%95%84%EC%9D%B4%ED%85%9C%2025%20-%20%ED%86%B1%EB%A0%88%EB%B2%A8%20%ED%81%B4%EB%9E%98%EC%8A%A4%EB%8A%94%20%ED%95%9C%20%ED%8C%8C%EC%9D%BC%EC%97%90%20%ED%95%98%EB%82%98%EB%A7%8C%20%EB%8B%B4%EC%9C%BC%EB%9D%BC.md)
 
 ### 5. 제네릭
-- [아이템 26 - 로 타입은 사용하지 말라]()
+- [아이템 26 - 로 타입은 사용하지 말라](https://github.com/ckddn9496/effective-java-study/blob/master/contents/%EC%95%84%EC%9D%B4%ED%85%9C%2026%20-%20%EB%A1%9C%20%ED%83%80%EC%9E%85%EC%9D%80%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80%20%EB%A7%90%EB%9D%BC.md)
