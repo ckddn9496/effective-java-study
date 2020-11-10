@@ -38,3 +38,4 @@
 
 ### 5. 제네릭
 - [아이템 26 - 로 타입은 사용하지 말라](https://github.com/ckddn9496/effective-java-study/blob/master/contents/%EC%95%84%EC%9D%B4%ED%85%9C%2026%20-%20%EB%A1%9C%20%ED%83%80%EC%9E%85%EC%9D%80%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80%20%EB%A7%90%EB%9D%BC.md)
+- [아이템 27 - 비검사 경고를 제거하라]()
