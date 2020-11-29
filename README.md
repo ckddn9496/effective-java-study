@@ -43,7 +43,7 @@
 - [5장 제네릭 정리](https://github.com/ckddn9496/effective-java-study/blob/master/contents/5%EC%9E%A5%20-%20%EC%A0%9C%EB%84%A4%EB%A6%AD.md)
 
 ### 6. 열거 타입과 애너테이션
-- [6장 열거 타입과 애너테이션 정리]()
+- [6장 열거 타입과 애너테이션 정리](https://github.com/ckddn9496/effective-java-study/blob/master/contents/6%EC%9E%A5%20-%20%EC%97%B4%EA%B1%B0%20%ED%83%80%EC%9E%85%EA%B3%BC%20%EC%95%A0%EB%84%88%ED%85%8C%EC%9D%B4%EC%85%98.md)
 
 ### 7. 람다와 스트림
-- [7장 - 람다와 스트림 정리]()
+- [7장 - 람다와 스트림 정리](https://github.com/ckddn9496/effective-java-study/blob/master/contents/7%EC%9E%A5%20-%20%EB%9E%8C%EB%8B%A4%EC%99%80%20%EC%8A%A4%ED%8A%B8%EB%A6%BC.md)
