@@ -49,5 +49,5 @@
 - [7장 - 람다와 스트림 정리](https://github.com/ckddn9496/effective-java-study/blob/master/contents/7%EC%9E%A5%20-%20%EB%9E%8C%EB%8B%A4%EC%99%80%20%EC%8A%A4%ED%8A%B8%EB%A6%BC.md)
 
 ### 8장 - 메서드
-- [8장 - 메서드 정리]()
+- [8장 - 메서드 정리](https://github.com/ckddn9496/effective-java-study/blob/master/contents/8%EC%9E%A5%20-%20%EB%A9%94%EC%84%9C%EB%93%9C.md)
 
