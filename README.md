@@ -52,4 +52,4 @@
 - [8장 - 메서드 정리](https://github.com/ckddn9496/effective-java-study/blob/master/contents/8%EC%9E%A5%20-%20%EB%A9%94%EC%84%9C%EB%93%9C.md)
 
 ### 9장 - 일반적인 프로그래밍 원칙
-- [9장 일반적인 프로그래밍 원칙 정리](https://github.com/ckddn9496/effective-java-study/blob/master/contents/9%EC%9E%A5%20-%20%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9D%B8%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%9B%90%EC%B9%99.md)
+- [9장 - 일반적인 프로그래밍 원칙 정리](https://github.com/ckddn9496/effective-java-study/blob/master/contents/9%EC%9E%A5%20-%20%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9D%B8%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%9B%90%EC%B9%99.md)
