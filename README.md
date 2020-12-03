@@ -51,3 +51,5 @@
 ### 8장 - 메서드
 - [8장 - 메서드 정리](https://github.com/ckddn9496/effective-java-study/blob/master/contents/8%EC%9E%A5%20-%20%EB%A9%94%EC%84%9C%EB%93%9C.md)
 
+### 9장 - 일반적인 프로그래밍 원칙
+- [9장 일반적인 프로그래밍 원칙 정리]()
