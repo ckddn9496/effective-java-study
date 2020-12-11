@@ -46,16 +46,19 @@
 - [6장 열거 타입과 애너테이션 정리](https://github.com/ckddn9496/effective-java-study/blob/master/contents/6%EC%9E%A5%20-%20%EC%97%B4%EA%B1%B0%20%ED%83%80%EC%9E%85%EA%B3%BC%20%EC%95%A0%EB%84%88%ED%85%8C%EC%9D%B4%EC%85%98.md)
 
 ### 7. 람다와 스트림
-- [7장 - 람다와 스트림 정리](https://github.com/ckddn9496/effective-java-study/blob/master/contents/7%EC%9E%A5%20-%20%EB%9E%8C%EB%8B%A4%EC%99%80%20%EC%8A%A4%ED%8A%B8%EB%A6%BC.md)
+- [7장 람다와 스트림 정리](https://github.com/ckddn9496/effective-java-study/blob/master/contents/7%EC%9E%A5%20-%20%EB%9E%8C%EB%8B%A4%EC%99%80%20%EC%8A%A4%ED%8A%B8%EB%A6%BC.md)
 
 ### 8장 - 메서드
-- [8장 - 메서드 정리](https://github.com/ckddn9496/effective-java-study/blob/master/contents/8%EC%9E%A5%20-%20%EB%A9%94%EC%84%9C%EB%93%9C.md)
+- [8장 메서드 정리](https://github.com/ckddn9496/effective-java-study/blob/master/contents/8%EC%9E%A5%20-%20%EB%A9%94%EC%84%9C%EB%93%9C.md)
 
 ### 9장 - 일반적인 프로그래밍 원칙
-- [9장 - 일반적인 프로그래밍 원칙 정리](https://github.com/ckddn9496/effective-java-study/blob/master/contents/9%EC%9E%A5%20-%20%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9D%B8%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%9B%90%EC%B9%99.md)
+- [9장 일반적인 프로그래밍 원칙 정리](https://github.com/ckddn9496/effective-java-study/blob/master/contents/9%EC%9E%A5%20-%20%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9D%B8%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%9B%90%EC%B9%99.md)
 
 ### 10장 - 예외
-- [10장 - 예외 정리](https://github.com/ckddn9496/effective-java-study/blob/master/contents/10%EC%9E%A5%20-%20%EC%98%88%EC%99%B8.md)
+- [10장 예외 정리](https://github.com/ckddn9496/effective-java-study/blob/master/contents/10%EC%9E%A5%20-%20%EC%98%88%EC%99%B8.md)
 
 ### 11장 - 동시성
-- [11장 - 동시성 정리](https://github.com/ckddn9496/effective-java-study/blob/master/contents/11%EC%9E%A5%20-%20%EB%8F%99%EC%8B%9C%EC%84%B1.md)
+- [11장 동시성 정리](https://github.com/ckddn9496/effective-java-study/blob/master/contents/11%EC%9E%A5%20-%20%EB%8F%99%EC%8B%9C%EC%84%B1.md)
+
+### 12장 - 직렬화
+- [12장 직렬화 정리]()
